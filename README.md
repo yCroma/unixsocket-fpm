@@ -16,3 +16,5 @@ $ docker-compose exec php_fpm ash
 ```
 
 [http://localhost:28000](http://localhost:2800) へアクセス
+
+記事：[docker-composeでunixソケットを使った、Nginx、php-fpmコンテナを作る](https://qiita.com/yCroma/items/c22d948b4393fbc96f53)
